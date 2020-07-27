@@ -8,7 +8,7 @@ TBA
 2. Mapping and localisation in the ARUCO forest
 
 ## Marking schemes
-This lab session will not be marked.
+Week 3's lab session will not be marked.
 
 ## Getting-started
 TBA

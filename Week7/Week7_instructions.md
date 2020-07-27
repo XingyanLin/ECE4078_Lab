@@ -7,7 +7,7 @@ TBA
 Autonomous navigation and path planning
 
 ## Marking schemes
-This lab session will not be marked.
+Week 7's lab session will not be marked.
 
 ## Getting-started
 TBA

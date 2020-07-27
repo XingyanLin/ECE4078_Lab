@@ -8,7 +8,7 @@ TBA
 2. Adjustment and improvement
 
 ## Marking schemes
-This lab session will not be marked.
+Week 11's lab session will not be marked.
 
 ## Getting-started
 TBA

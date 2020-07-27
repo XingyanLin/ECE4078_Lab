@@ -8,7 +8,7 @@ TBA
 2. Multi-robot planning and navigation
 
 ## Marking schemes
-This lab session will not be marked.
+Week 9's lab session will not be marked.
 
 ## Getting-started
 TBA

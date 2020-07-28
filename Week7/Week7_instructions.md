@@ -4,10 +4,10 @@
 TBA
 
 ## Objectives
-Autonomous navigation and path planning
+TBA
 
 ## Marking schemes
-Week 7's lab session will not be marked.
+TBA
 
 ## Getting-started
 TBA

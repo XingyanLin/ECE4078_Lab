@@ -4,11 +4,10 @@
 TBA
 
 ## Objectives
-1. Fusing data from two robots
-2. Multi-robot planning and navigation
+TBA
 
 ## Marking schemes
-Week 9's lab session will not be marked.
+TBA
 
 ## Getting-started
 TBA

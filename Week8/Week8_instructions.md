@@ -4,11 +4,10 @@
 TBA
 
 ## Objectives
-1. Autonomous path planning
-2. Identifying the shortest path
+TBA
 
 ## Marking schemes
-Path planning (20pts x 5): for each target in the map, 10pts for finding a path to the target, 10pts for finding the shortest path
+TBA
 
 ## Getting-started
 TBA

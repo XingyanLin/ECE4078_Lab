@@ -4,11 +4,10 @@
 TBA
 
 ## Objectives
-1. Integrate mapping, localisation, navigation, object recognition, and multi-robot collaboration
-2. Adjustment and improvement
+TBA
 
 ## Marking schemes
-Week 11's lab session will not be marked.
+TBA
 
 ## Getting-started
 TBA

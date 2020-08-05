@@ -7,7 +7,7 @@ We will use the [PenguinPi robot](https://cirrusrobotics.com.au/products/penguin
 
 ## Objectives
 1. Get an overview of the lab project.
-2. Set up your environment on cloud-based platforms or locally.
+2. Set up your environment locally or on cloud-based platforms.
 3. Implement keyboard teleoperation of the robot.
 
 ## Marking schemes
